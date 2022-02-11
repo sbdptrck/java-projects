@@ -7,6 +7,7 @@ public class Main {
 //        number.checkBetweenTwoPrimeNumber(1,100);
 
         Fibonacci number = new Fibonacci();
-        number.fibonacci(15);
+        number.fibonacci(8);
+        number.fibonacciRecursion(8);
     }
 }
